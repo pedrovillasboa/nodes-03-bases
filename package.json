@@ -1,0 +1,19 @@
+{
+  "name": "nodes-03-bases",
+  "version": "0.0.1",
+  "description": "Programa de Linea de Comandos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter988/nodes-03-bases.git"
+  },
+  "author": "Pedro Villasboa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter988/nodes-03-bases/issues"
+  },
+  "homepage": "https://github.com/peter988/nodes-03-bases#readme"
+}
