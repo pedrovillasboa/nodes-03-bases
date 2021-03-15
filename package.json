@@ -1,6 +1,6 @@
 {
   "name": "nodes-03-bases",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Programa de Linea de Comandos",
   "main": "index.js",
   "scripts": {
